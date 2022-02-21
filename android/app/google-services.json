@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186966404826",
+    "project_id": "tamayyuz-test",
+    "storage_bucket": "tamayyuz-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186966404826:android:ab2e3f3fe3b0657094bfe3",
+        "android_client_info": {
+          "package_name": "com.example.tamayyuz_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186966404826-sip7ikao1bm4c0aaamdagv3g846omg4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tamayyuz_test",
+            "certificate_hash": "ff641806d81bcaa93c0a8b26931167a7870fc1c6"
+          }
+        },
+        {
+          "client_id": "186966404826-gniijl4c9p824gdgjrd56cpb8vakl3dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-oTQrGd71qk-4Y4L8H7oZCEL_tXzTQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186966404826-gniijl4c9p824gdgjrd56cpb8vakl3dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
